@@ -1,62 +1,62 @@
 # Widgets
 1462: {
-	name: gear info equipment
-	components: {
-		11: item box container
-		13: item child container
-		18: {
-			name: handles
-			components: {
-				1: weight
-				2: toolbelt handle
-				7: kept on death handle
-			}
-		}
-	}
+    name: gear info equipment
+    components: {
+        11: item box container
+        13: item child container
+        18: {
+            name: handles
+            components: {
+                1: weight
+                2: toolbelt handle
+                7: kept on death handle
+            }
+        }
+    }
 }
 1464: {
-	name: hud equipment
-	components: {
-		14: item box container
-		26: {
-			name: handles
-			components: {
-				1: weight
-				2: toolbelt handle
-				7: kept on death handle
-			}
-		}
-		27: item box container
-		28: item child container
-	}
+    name: hud equipment
+    components: {
+        14: item box container
+        26: {
+            name: handles
+            components: {
+                1: weight
+                2: toolbelt handle
+                7: kept on death handle
+            }
+        }
+        27: item box container
+        28: item child container
+    }
 }
 1469: {
-	name: value prompt
-	components: {
-		2: prompt text
-		3: input value
-	}
+    name: value prompt
+    components: {
+        2: prompt text
+        3: input value
+    }
 }
 1473: {
-	name: hud inventory
-	components: {
-		0: item box container
-		1: money pouch handle
-		2: money pouch amount
-		5: item box container
-		6: scrollbar
-		8: item child container
-	}
+    name: hud inventory
+    components: {
+        0: item box container
+        1: money pouch handle
+        2: money pouch amount
+        5: item box container
+        6: scrollbar
+        8: item child container
+    }
 }
 1474: {
-	name: gear info inventory
-	components: {
-		0: item box container
-		1: money pouch handle
-		2: money pouch handle
-		3: money pouch handle 
-		12: item box container
-		13: item child container
-		19: money pouch amount
-	}
+    name: gear info inventory
+    components: {
+        0: item box container
+        1: money pouch handle
+        2: money pouch handle
+        3: money pouch handle 
+        12: item box container
+        13: item child container
+        19: money pouch amount
+    }
 }
